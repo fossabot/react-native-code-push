@@ -1,4 +1,5 @@
 [![appcenterbanner](https://user-images.githubusercontent.com/31293287/32969262-3cc5d48a-cb99-11e7-91bf-fa57c67a371c.png)](http://microsoft.github.io/code-push/)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Freact-native-code-push.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Freact-native-code-push?ref=badge_shield)
 
 #### [Sign up With App Center](https://appcenter.ms/signup?utm_source=CodePush&utm_medium=Azure) to use CodePush
 
@@ -443,3 +444,7 @@ This module ships its `*.d.ts` file as part of its NPM package, which allows you
 ---
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkomissargithuba%2Freact-native-code-push.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkomissargithuba%2Freact-native-code-push?ref=badge_large)
